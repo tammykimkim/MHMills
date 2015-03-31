@@ -19,18 +19,31 @@
 ================================================== */
 #Header .logo {
 	float: left;
-	margin: 20px 0 60px 0px;
+	margin: 0 0 60px 0px;
 }
 
 #Header #menu {
 	background-color: #cc0000;
 }
 
+/* #Header - addons
+================================================== */
+#Header .addons {
+	top: 0;
+	font-size: 12px;
+}
+#Header .contact_details {
+	font-size: 12px;
+}
+
 /* #Header - centering the menu
 ================================================== */
 #Header .menu { float: none; }
 #Header #menu { text-align: right !important; }
-#Header .menu > li { display: inline-block; float: none; }
+#Header .menu > li { 
+	display: inline-block; 
+	float: none; 
+}
 
 
 .clients ul li .client_wrapper {
@@ -48,15 +61,18 @@ border-color: rgba(0, 0, 0, 0);
 ================================================== */
 .menu-clean #Header .menu > li > a { 
 	padding: 0 20px; 
-	color: #000;
+	color: #444444;
+	font-weight: bold;
+	text-transform: none;
+	letter-spacing: 0;
 }
 
 .menu-clean #Header .menu > li > a:hover,
 .menu-clean #Header .menu > li.hover > a { 
 	text-decoration: none;
-	border-top: 4px solid;
+	border-bottom: 2px solid #bbb;
 	box-sizing: border-box;
-/*	background: #f7f9f9  */
+	background: #f7f9f9  
 }
 
 .menu-clean #Header .menu > li.current-menu-item > a,
@@ -67,16 +83,16 @@ border-color: rgba(0, 0, 0, 0);
 	line-height: 60px; 
 	background: none; 
 	text-decoration: none;
-	border-top: 4px solid;
+	border-bottom: 2px solid #bbb;
 	box-sizing: border-box;
-/*	background: #f7f9f9  */
+	background: #f7f9f9  
 }
 
 /* #Subheader
 ================================================== */
-/*#Subheader { 
+#Subheader { 
 	display: none;
-}*/
+}
 
 #Content { 
 	width:100%; 
@@ -120,6 +136,12 @@ body:not(.template-slider) #Content {
 	font-size: 36px;
 }
 
+/* #Text for Home Page text
+================================================== */
+.blockquote .author .desc span {
+	font-size: 16px;
+	font-style: normal;
+}
 
 /* #Footer
 ================================================== */
