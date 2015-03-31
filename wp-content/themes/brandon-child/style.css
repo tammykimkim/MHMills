@@ -1,0 +1,132 @@
+/*
+ Theme Name:     Brandon Child Theme
+ Author:         Tammy Kim, Front End Web Developer/Designer - Sapphire Pixel Design
+ Author URI:     http://www.tammykimkim.com
+ Description:    Brandon Child Theme
+ Version: 			 1.7.5
+ Theme URI:      http://themes.muffingroup.com/brandon
+ Template:       brandon
+*/
+
+/*Importing parent CSS */
+
+@import url("../brandon/style.css");
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+/* #Header - logo
+================================================== */
+#Header .logo {
+	float: left;
+	margin: 20px 0 60px 0px;
+}
+
+#Header #menu {
+	background-color: #cc0000;
+}
+
+/* #Header - centering the menu
+================================================== */
+#Header .menu { float: none; }
+#Header #menu { text-align: right !important; }
+#Header .menu > li { display: inline-block; float: none; }
+
+
+.clients ul li .client_wrapper {
+border-color: rgba(0, 0, 0, 0);
+}
+
+	/* #menu - aligning text to left
+================================================== */
+/* main menu 2nd level */
+#Header .menu li ul li a { 
+	text-align: left !important; 
+}
+
+	/* #Menu-clean
+================================================== */
+.menu-clean #Header .menu > li > a { 
+	padding: 0 20px; 
+	color: #000;
+}
+
+.menu-clean #Header .menu > li > a:hover,
+.menu-clean #Header .menu > li.hover > a { 
+	text-decoration: none;
+	border-top: 4px solid;
+	box-sizing: border-box;
+/*	background: #f7f9f9  */
+}
+
+.menu-clean #Header .menu > li.current-menu-item > a,
+.menu-clean #Header .menu > li.current_page_item > a,
+.menu-clean #Header .menu > li.current-menu-ancestor > a,
+.menu-clean #Header .menu > li.current_page_ancestor > a { 
+	height: 60px; 
+	line-height: 60px; 
+	background: none; 
+	text-decoration: none;
+	border-top: 4px solid;
+	box-sizing: border-box;
+/*	background: #f7f9f9  */
+}
+
+/* #Subheader
+================================================== */
+/*#Subheader { 
+	display: none;
+}*/
+
+#Content { 
+	width:100%; 
+}
+
+/* Testimonials & Blockquote */
+.testimonials_wrapper .desc .text, .blockquote .text {
+	color: #ffffff;
+}
+
+hr { 
+	margin-left: -50% !important; 
+	width: 200%; 
+}
+
+/* This is to take the padding off the top of the subheader area*/
+body:not(.template-slider) #Content { 
+	padding-top: 0; 
+}
+.blockquote {  
+	padding-top: 36px; 
+	position: relative;   
+	margin-top: 40px !important; 
+}
+
+.blockquote.no_photo .section_wrapper h3 {
+	color: #1c1c1c;
+}
+
+.section {
+	padding-top: 40px;
+}
+
+.section_wrapper h3 {
+	color: #fff;
+}
+
+.section_wrapper h6 {
+	color: #fff;
+	font-style: normal;
+	font-size: 36px;
+}
+
+
+/* #Footer
+================================================== */
+#Footer .copyright { 
+	font-size: 80%; 
+}
+
+#Footer { 
+	background: url("images/patterns/19.png") repeat scroll 0 0 rgba(0, 0, 0, 0); 
+}

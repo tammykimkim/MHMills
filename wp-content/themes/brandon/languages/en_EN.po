@@ -1,0 +1,2893 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Brandon\n"
+"POT-Creation-Date: 2014-12-22 14:30+0100\n"
+"PO-Revision-Date: 2014-12-22 14:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: Muffin group\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/Shared/brandon\n"
+
+#: /Users/Shared/brandon/404.php:10 /Users/Shared/brandon/muffin-options/theme-options.php:1441
+msgid "Ooops... Error 404"
+msgstr ""
+
+#: /Users/Shared/brandon/404.php:11 /Users/Shared/brandon/muffin-options/theme-options.php:1449
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: /Users/Shared/brandon/404.php:12
+msgid "Please check entered address and try again or "
+msgstr ""
+
+#: /Users/Shared/brandon/404.php:13
+msgid "go to homepage"
+msgstr ""
+
+#: /Users/Shared/brandon/404.php:36 /Users/Shared/brandon/header-shop.php:30
+#: /Users/Shared/brandon/header.php:30
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: /Users/Shared/brandon/_demo_index.php:41 /Users/Shared/brandon/index.php:35
+#: /Users/Shared/brandon/search.php:48
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: /Users/Shared/brandon/_demo_index.php:42 /Users/Shared/brandon/index.php:36
+#: /Users/Shared/brandon/search.php:49
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: /Users/Shared/brandon/comments.php:9
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: /Users/Shared/brandon/comments.php:25
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: /Users/Shared/brandon/comments.php:26
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: /Users/Shared/brandon/comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:164
+#: /Users/Shared/brandon/functions/theme-functions.php:655
+msgid "Install Required Plugins"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:165
+#: /Users/Shared/brandon/functions/theme-functions.php:656
+msgid "Install Plugins"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:166
+#: /Users/Shared/brandon/functions/theme-functions.php:657
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:178
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:490
+#: /Users/Shared/brandon/functions/theme-functions.php:669
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:179
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1846
+#: /Users/Shared/brandon/functions/theme-functions.php:670
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:517
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1299
+#: /Users/Shared/brandon/functions/meta-functions.php:1423
+msgid "Type"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a while on some hosts, "
+"so please be patient."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1956
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1956
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, so please be "
+"patient."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-client.php:18
+#: /Users/Shared/brandon/functions/meta-functions.php:546
+msgid "Clients"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-client.php:19
+#: /Users/Shared/brandon/functions/meta-portfolio.php:171
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1392
+msgid "Client"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-client.php:20
+#: /Users/Shared/brandon/functions/meta-offer.php:20
+#: /Users/Shared/brandon/functions/meta-portfolio.php:20
+#: /Users/Shared/brandon/functions/meta-slide.php:20
+#: /Users/Shared/brandon/functions/meta-testimonial.php:20
+msgid "Add New"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-client.php:21
+msgid "Add New Client"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-client.php:22
+msgid "Edit Client"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-client.php:23
+msgid "New Client"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-client.php:24
+msgid "View Clients"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-client.php:25
+msgid "Search Clients"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-client.php:26
+msgid "No clients found"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-client.php:27
+msgid "No clients found in Trash"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-client.php:56
+#: /Users/Shared/brandon/functions/meta-offer.php:56
+#: /Users/Shared/brandon/functions/meta-offer.php:101
+#: /Users/Shared/brandon/functions/meta-portfolio.php:64
+#: /Users/Shared/brandon/functions/meta-slide.php:56
+msgid "Thumbnail"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-client.php:58
+#: /Users/Shared/brandon/functions/meta-functions.php:1241
+#: /Users/Shared/brandon/functions/meta-functions.php:1466
+#: /Users/Shared/brandon/functions/meta-offer.php:58
+#: /Users/Shared/brandon/functions/meta-portfolio.php:67
+#: /Users/Shared/brandon/functions/meta-slide.php:58
+#: /Users/Shared/brandon/functions/meta-testimonial.php:67
+#: /Users/Shared/brandon/muffin-options/theme-options.php:291
+msgid "Order"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-client.php:92
+msgid "Client Options"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-client.php:101
+#: /Users/Shared/brandon/functions/meta-functions.php:433
+#: /Users/Shared/brandon/functions/meta-functions.php:484
+#: /Users/Shared/brandon/functions/meta-functions.php:881
+#: /Users/Shared/brandon/functions/meta-functions.php:950
+#: /Users/Shared/brandon/functions/meta-functions.php:999
+#: /Users/Shared/brandon/functions/meta-functions.php:1072
+#: /Users/Shared/brandon/functions/meta-functions.php:1303
+#: /Users/Shared/brandon/functions/meta-testimonial.php:125
+msgid "Link"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-client.php:102
+msgid "Link to client`s site"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:17
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1368
+#: /Users/Shared/brandon/taxonomy-portfolio-types.php:15
+#: /Users/Shared/brandon/template-portfolio.php:21
+msgid "All"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:32
+msgid "-- Select --"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:35
+msgid "- Muffin Slider -"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:279
+#: /Users/Shared/brandon/muffin-options/theme-options.php:340
+msgid "Background Image"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:285
+#: /Users/Shared/brandon/muffin-options/theme-options.php:347
+msgid "Background Image position"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:286
+#: /Users/Shared/brandon/muffin-options/theme-options.php:348
+msgid "This option can be used only with your custom image selected above."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:303
+msgid "Background Color"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:304
+msgid ""
+"Use color name (eg. \"gray\") or hex (eg. \"#808080\").<br /><br />Leave this field blank if you "
+"want to use transparent background."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:312
+#: /Users/Shared/brandon/functions/meta-page.php:57
+#: /Users/Shared/brandon/functions/meta-portfolio.php:123
+#: /Users/Shared/brandon/functions/meta-post.php:36
+#: /Users/Shared/brandon/muffin-options/theme-options.php:30
+#: /Users/Shared/brandon/muffin-options/theme-options.php:165
+#: /Users/Shared/brandon/muffin-options/theme-options.php:250
+#: /Users/Shared/brandon/muffin-options/theme-options.php:328
+msgid "Layout"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:313
+#: /Users/Shared/brandon/functions/meta-page.php:58
+msgid "Select layout for this page"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:314
+msgid ""
+"<strong>Notice:</strong> Sidebar for section will show <strong>only</strong> if you set Full Width "
+"Page Layout in Page Options below Content Builder."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:326
+#: /Users/Shared/brandon/functions/meta-page.php:70
+#: /Users/Shared/brandon/functions/meta-portfolio.php:135
+#: /Users/Shared/brandon/functions/meta-post.php:48
+msgid "Sidebar"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:327
+#: /Users/Shared/brandon/functions/meta-page.php:71
+msgid "Select sidebar for this page."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:334
+msgid "Padding Top"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:335
+msgid "Section Padding Top"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:336
+#: /Users/Shared/brandon/functions/meta-functions.php:346
+#: /Users/Shared/brandon/functions/meta-functions.php:746
+#: /Users/Shared/brandon/functions/meta-functions.php:1519
+#: /Users/Shared/brandon/functions/meta-functions.php:1528
+#: /Users/Shared/brandon/functions/meta-functions.php:1579
+#: /Users/Shared/brandon/functions/meta-functions.php:1588
+msgid "px"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:344
+msgid "Padding Bottom"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:345
+msgid "Section Padding Bottom"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:354
+msgid "Custom CSS classes"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:355
+msgid ""
+"Multiple classes should be separated with SPACE.<br />For sections with dark background you can use "
+"class: <strong>dark</strong>"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:366
+#: /Users/Shared/brandon/functions/meta-functions.php:379
+msgid "Accordion"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:373
+#: /Users/Shared/brandon/functions/meta-functions.php:420
+#: /Users/Shared/brandon/functions/meta-functions.php:591
+#: /Users/Shared/brandon/functions/meta-functions.php:617
+#: /Users/Shared/brandon/functions/meta-functions.php:729
+#: /Users/Shared/brandon/functions/meta-functions.php:771
+#: /Users/Shared/brandon/functions/meta-functions.php:802
+#: /Users/Shared/brandon/functions/meta-functions.php:834
+#: /Users/Shared/brandon/functions/meta-functions.php:914
+#: /Users/Shared/brandon/functions/meta-functions.php:1024
+#: /Users/Shared/brandon/functions/meta-functions.php:1162
+#: /Users/Shared/brandon/functions/meta-functions.php:1260
+#: /Users/Shared/brandon/functions/meta-functions.php:1329
+#: /Users/Shared/brandon/functions/meta-functions.php:1359
+#: /Users/Shared/brandon/functions/meta-functions.php:1391
+#: /Users/Shared/brandon/functions/meta-functions.php:1546
+#: /Users/Shared/brandon/functions/meta-slide.php:103
+#: /Users/Shared/brandon/muffin-options/fields/tabs/field_tabs.php:34
+#: /Users/Shared/brandon/muffin-options/fields/tabs/field_tabs.php:45
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1440
+msgid "Title"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:380
+msgid "Manage accordion tabs."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:381
+#: /Users/Shared/brandon/functions/meta-functions.php:810
+#: /Users/Shared/brandon/functions/meta-functions.php:1416
+#: /Users/Shared/brandon/functions/meta-functions.php:1495
+msgid "You can use Drag & Drop to set the order."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:388
+#: /Users/Shared/brandon/functions/meta-functions.php:817
+msgid "Open First"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:389
+#: /Users/Shared/brandon/functions/meta-functions.php:818
+msgid "Open first tab at start."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:398
+msgid "Article box"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:405
+#: /Users/Shared/brandon/functions/meta-functions.php:510
+#: /Users/Shared/brandon/functions/meta-functions.php:716
+#: /Users/Shared/brandon/functions/meta-functions.php:840
+#: /Users/Shared/brandon/functions/meta-functions.php:935
+#: /Users/Shared/brandon/functions/meta-functions.php:967
+#: /Users/Shared/brandon/functions/meta-functions.php:974
+msgid "Image"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:406
+#: /Users/Shared/brandon/functions/meta-functions.php:841
+msgid "Featured Image"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:407
+msgid "Recommended image size 380px x 264px."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:413
+msgid "Slogan"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:414
+msgid "Call to action text above the title."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:426
+#: /Users/Shared/brandon/functions/meta-functions.php:874
+#: /Users/Shared/brandon/functions/meta-offer.php:125
+#: /Users/Shared/brandon/functions/meta-slide.php:117
+msgid "Button text"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:440
+#: /Users/Shared/brandon/functions/meta-functions.php:492
+#: /Users/Shared/brandon/functions/meta-functions.php:888
+#: /Users/Shared/brandon/functions/meta-functions.php:957
+#: /Users/Shared/brandon/functions/meta-functions.php:1007
+msgid "Open in new window"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:441
+#: /Users/Shared/brandon/functions/meta-functions.php:494
+#: /Users/Shared/brandon/functions/meta-functions.php:889
+#: /Users/Shared/brandon/functions/meta-functions.php:958
+#: /Users/Shared/brandon/functions/meta-functions.php:1008
+msgid "Adds a target=\"_blank\" attribute to the link."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:450
+msgid "Blockquote"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:457
+#: /Users/Shared/brandon/functions/meta-functions.php:573
+#: /Users/Shared/brandon/functions/meta-functions.php:675
+#: /Users/Shared/brandon/functions/meta-functions.php:777
+#: /Users/Shared/brandon/functions/meta-functions.php:867
+#: /Users/Shared/brandon/functions/meta-functions.php:920
+#: /Users/Shared/brandon/functions/meta-functions.php:1030
+#: /Users/Shared/brandon/functions/meta-functions.php:1288
+#: /Users/Shared/brandon/functions/meta-functions.php:1335
+#: /Users/Shared/brandon/functions/meta-functions.php:1365
+#: /Users/Shared/brandon/muffin-options/fields/tabs/field_tabs.php:36
+#: /Users/Shared/brandon/muffin-options/fields/tabs/field_tabs.php:47
+#: /Users/Shared/brandon/muffin-options/theme-options.php:731
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1190
+msgid "Content"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:458
+msgid "Blockquote content."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:459
+#: /Users/Shared/brandon/functions/meta-functions.php:648
+#: /Users/Shared/brandon/functions/meta-functions.php:868
+#: /Users/Shared/brandon/functions/meta-functions.php:1031
+#: /Users/Shared/brandon/functions/meta-functions.php:1289
+msgid "HTML tags allowed."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:465
+#: /Users/Shared/brandon/functions/meta-functions.php:1156
+#: /Users/Shared/brandon/functions/meta-testimonial.php:64
+msgid "Photo"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:466
+msgid "Author Photo."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:472
+#: /Users/Shared/brandon/functions/meta-testimonial.php:113
+msgid "Author"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:478
+#: /Users/Shared/brandon/functions/meta-testimonial.php:119
+msgid "Company"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:485
+#: /Users/Shared/brandon/functions/meta-testimonial.php:126
+msgid "Link to company page."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:493
+msgid "Open link in a new window."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:503
+msgid "Call To Action"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:511
+msgid "Background Image."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:517
+#: /Users/Shared/brandon/functions/meta-slide.php:110
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1456
+msgid "Text"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:518
+msgid "Wrap text into \"span\" tag to highlight it."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:524
+msgid "Button title"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:530
+#: /Users/Shared/brandon/functions/meta-offer.php:133
+#: /Users/Shared/brandon/functions/meta-slide.php:125
+msgid "Button link"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:536
+msgid "Class"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:537
+msgid "This option is useful when you want to use PrettyPhoto (prettyphoto)."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:553
+msgid "Items in Row"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:554
+msgid "Number of items in row"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:555
+msgid "Recommended number: 3-6"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:566
+msgid "Code"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:584
+msgid "Column"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:592
+#: /Users/Shared/brandon/functions/meta-functions.php:1547
+msgid "This field is used as an Item Label in admin panel only and shows after page update."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:598
+msgid "Column content"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:599
+msgid "Shortcodes and HTML tags allowed."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:610
+msgid "Contact Box"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:623
+#: /Users/Shared/brandon/functions/meta-functions.php:1097
+msgid "Google Maps Lat"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:625
+#: /Users/Shared/brandon/functions/meta-functions.php:633
+#: /Users/Shared/brandon/functions/meta-functions.php:1099
+#: /Users/Shared/brandon/functions/meta-functions.php:1107
+msgid "The map will appear only if this field is filled correctly."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:631
+#: /Users/Shared/brandon/functions/meta-functions.php:1105
+msgid "Google Maps Lng"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:639
+#: /Users/Shared/brandon/functions/meta-functions.php:1122
+msgid "Zoom"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:647
+msgid "Address"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:654
+msgid "Telephone"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:660
+msgid "Email"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:666
+msgid "WWW"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:682
+msgid ""
+"Adding this Item will show Content from WordPress Editor above Page Options. You can use it only "
+"once per page. Please also remember to turn on \"Hide The Content\" option."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:691
+msgid "Counter"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:698
+#: /Users/Shared/brandon/functions/meta-functions.php:784
+#: /Users/Shared/brandon/functions/meta-functions.php:926
+msgid "Icon"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:699
+#: /Users/Shared/brandon/functions/meta-functions.php:927
+msgid "Font Awesome Icon, eg. <strong>fa-heart</strong>"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:707
+msgid "Icon Color"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:708
+msgid "Use color name (eg. \"grey\") or hex (eg. \"#CCCCCC\")."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:717
+#: /Users/Shared/brandon/functions/meta-functions.php:936
+msgid "If you upload an image, icon will not show."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:723
+#: /Users/Shared/brandon/functions/meta-functions.php:1353
+msgid "Number"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:738
+msgid "Divider"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:745
+msgid "Divider height"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:754
+msgid "Show line"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:755
+msgid "Display horizontal line as a divider."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:764
+msgid "Fancy Heading"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:785
+msgid "Font Awesome Icon, eg. <strong>fa-bars</strong>"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:795
+#: /Users/Shared/brandon/functions/meta-functions.php:808
+msgid "FAQ"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:809
+msgid "Manage FAQ tabs."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:827
+msgid "Feature Box"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:842
+msgid "Recommended image size 576px x 385px or larger."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:860
+msgid "Image Animation"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:861
+msgid "Works in modern browsers only."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:896
+#: /Users/Shared/brandon/functions/meta-functions.php:1373
+#: /Users/Shared/brandon/functions/meta-functions.php:1476
+msgid "Show border"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:897
+#: /Users/Shared/brandon/functions/meta-functions.php:1374
+msgid "Show right dashed border"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:907
+msgid "Icon Box"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:942
+#: /Users/Shared/brandon/functions/meta-functions.php:1079
+msgid "Link Title"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:980
+msgid "Alternate Text"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:986
+msgid "Caption"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:992
+msgid "Zoomed image"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:993
+msgid "This image will be opened in lightbox."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1000
+msgid "This link will work only if you leave the above \"Zoomed image\" field empty."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1017
+msgid "Info Box"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1041
+msgid "Latest Posts"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1048
+msgid "Posts Title"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1055
+#: /Users/Shared/brandon/functions/meta-functions.php:1215
+msgid "Count"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1056
+#: /Users/Shared/brandon/functions/meta-functions.php:1216
+msgid ""
+"We <strong>do not</strong> recommend use more than 10 items, because site will be working slowly."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1064
+#: /Users/Shared/brandon/functions/meta-functions.php:1224
+#: /Users/Shared/brandon/functions/meta-functions.php:1449
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1384
+msgid "Category"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1066
+msgid "Select posts category"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1073
+msgid "Link to Posts Page"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1081
+msgid "Go to blog &rarr;"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1090
+msgid "Map"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1113
+#: /Users/Shared/brandon/functions/meta-functions.php:1527
+#: /Users/Shared/brandon/functions/meta-functions.php:1587
+msgid "Height"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1133
+#: /Users/Shared/brandon/functions/meta-offer.php:18
+msgid "Offer"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1140
+msgid "There is no settings for this item."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1149
+msgid "Our Team"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1163
+msgid "Will also be used as the image alternative text."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1169
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1448
+msgid "Subtitle"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1175
+msgid "Phone"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1181
+msgid "E-mail"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1187
+#: /Users/Shared/brandon/muffin-options/theme-options.php:460
+msgid "Facebook"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1193
+#: /Users/Shared/brandon/muffin-options/theme-options.php:476
+msgid "Twitter"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1199
+#: /Users/Shared/brandon/muffin-options/theme-options.php:508
+msgid "LinkedIn"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1208
+#: /Users/Shared/brandon/functions/meta-portfolio.php:18
+#: /Users/Shared/brandon/muffin-options/theme-options.php:234
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1354
+msgid "Portfolio"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1226
+msgid "Select the portfolio post category."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1232
+#: /Users/Shared/brandon/functions/meta-functions.php:1457
+#: /Users/Shared/brandon/muffin-options/theme-options.php:282
+msgid "Order by"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1233
+#: /Users/Shared/brandon/muffin-options/theme-options.php:283
+msgid "Portfolio items order by column."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1242
+#: /Users/Shared/brandon/muffin-options/theme-options.php:292
+msgid "Portfolio items order."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1253
+msgid "Pricing Item"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1261
+msgid "Pricing item title"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1267
+msgid "Price"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1274
+msgid "Currency"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1281
+msgid "Period"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1296
+msgid "Link title"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1297
+#: /Users/Shared/brandon/functions/meta-functions.php:1304
+msgid "Link will appear only if this field will be filled."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1310
+msgid "Featured"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1312
+msgid "This pricing item will be featured."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1313
+msgid "Featured item is bigger and has different color."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1322
+msgid "Progress Bars"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1336
+msgid "Please use <strong>[bar title=\"Title\" value=\"50\"]</strong> shortcodes here."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1346
+msgid "Quick Fact"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1384
+msgid "Quick Form"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1397
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1407
+#: /Users/Shared/brandon/functions/meta-functions.php:1414
+msgid "Tabs"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1415
+msgid "Manage tabs"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1424
+msgid "Tabs type Horizontal or Vertical"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1425
+msgid "Vertical tabs works only for columns width: 1/2, 3/4 & 1/1"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1431
+msgid "Unique ID [optional]"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1432
+msgid "Allowed characters: \"a-z\" \"-\" \"_\""
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1433
+msgid ""
+"Use this option if you want to open specified tab from link.<br />For example: Your Unique ID is "
+"<strong>offer</strong> and you want to open 2nd tab, please use link: <strong>your-url/#offer-2</"
+"strong>"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1442
+#: /Users/Shared/brandon/functions/meta-testimonial.php:18
+msgid "Testimonials"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1451
+msgid "Select the testimonial post category."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1458
+msgid "Testimonials order by column."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1467
+msgid "Testimonials order."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1486
+#: /Users/Shared/brandon/functions/meta-functions.php:1493
+msgid "Timeline"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1494
+msgid ""
+"Please add <strong>date</strong> wrapped into <strong>span</strong> tag in Title field.<br/><br/"
+">&lt;span&gt;2013&lt;/span&gt;Event Title"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1504
+#: /Users/Shared/brandon/muffin-options/theme-options.php:484
+msgid "Vimeo"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1511
+#: /Users/Shared/brandon/functions/meta-offer.php:109
+#: /Users/Shared/brandon/functions/meta-portfolio.php:144
+#: /Users/Shared/brandon/functions/meta-post.php:57
+msgid "Vimeo video ID"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1512
+#: /Users/Shared/brandon/functions/meta-offer.php:110
+#: /Users/Shared/brandon/functions/meta-portfolio.php:146
+#: /Users/Shared/brandon/functions/meta-post.php:58
+msgid ""
+"It`s placed in every Vimeo video link after the last /,for example: http://vimeo.com/<b>1084537</b>"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1518
+#: /Users/Shared/brandon/functions/meta-functions.php:1578
+msgid "Width"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1539
+#: /Users/Shared/brandon/functions/meta-functions.php:1553
+msgid "Visual Editor"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1564
+#: /Users/Shared/brandon/muffin-options/theme-options.php:492
+msgid "YouTube"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1571
+#: /Users/Shared/brandon/functions/meta-offer.php:117
+#: /Users/Shared/brandon/functions/meta-portfolio.php:153
+#: /Users/Shared/brandon/functions/meta-post.php:65
+msgid "YouTube video ID"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-functions.php:1572
+#: /Users/Shared/brandon/functions/meta-offer.php:118
+#: /Users/Shared/brandon/functions/meta-portfolio.php:155
+#: /Users/Shared/brandon/functions/meta-post.php:66
+msgid ""
+"It`s placed in every YouTube video link after <b>v=</b> parameter, for example: http://www.youtube."
+"com/watch?v=<b>YE7VzlLtp-4</b>"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-offer.php:19
+msgid "Offer Item"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-offer.php:21
+msgid "Add New Item"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-offer.php:22
+msgid "Edit Item"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-offer.php:23
+msgid "New Item"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-offer.php:24
+msgid "View Item"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-offer.php:25
+msgid "Search Offer Items"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-offer.php:26
+msgid "No items found"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-offer.php:27
+msgid "No items found in Trash"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-offer.php:92
+msgid "Offer Item Options"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-offer.php:102
+msgid "Pager Thumbnail"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-offer.php:103
+msgid "Leave this field blank if you want to use resizes Featured Image as Pager Thumbnail."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-offer.php:134
+#: /Users/Shared/brandon/functions/meta-slide.php:126
+msgid "Button will appear only if this field will be filled."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-page.php:31
+msgid "Page Options"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-page.php:40
+#: /Users/Shared/brandon/functions/meta-portfolio.php:113
+#: /Users/Shared/brandon/functions/meta-post.php:26
+msgid "Hide the content"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-page.php:41
+#: /Users/Shared/brandon/functions/meta-portfolio.php:114
+#: /Users/Shared/brandon/functions/meta-post.php:27
+msgid "Hide the content from the WordPress editor."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-page.php:42
+#: /Users/Shared/brandon/functions/meta-portfolio.php:115
+#: /Users/Shared/brandon/functions/meta-post.php:28
+msgid ""
+"<strong>Turn it ON if you build content using Content Builder</strong>. Use the Content item if you "
+"want to display the Content from editor within the Content Builder."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-page.php:50
+msgid "Custom Menu"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-page.php:72
+#: /Users/Shared/brandon/functions/meta-portfolio.php:137
+#: /Users/Shared/brandon/functions/meta-post.php:50
+msgid "Shows only if layout with sidebar is selected."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-page.php:79
+#: /Users/Shared/brandon/functions/meta-portfolio.php:162
+#: /Users/Shared/brandon/functions/meta-post.php:73
+msgid "Slider"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-page.php:80
+#: /Users/Shared/brandon/functions/meta-portfolio.php:163
+#: /Users/Shared/brandon/functions/meta-post.php:74
+msgid "Select slider for this page."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-page.php:81
+msgid ""
+"Select Muffin Slider or one from the list of available <a href=\"admin.php?page=revslider"
+"\">Revolution Sliders</a>."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-page.php:88
+#: /Users/Shared/brandon/functions/meta-portfolio.php:200
+#: /Users/Shared/brandon/functions/meta-post.php:82
+msgid "SEO Title"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-page.php:89 /Users/Shared/brandon/functions/meta-page.php:96
+#: /Users/Shared/brandon/functions/meta-page.php:103
+#: /Users/Shared/brandon/functions/meta-portfolio.php:201
+#: /Users/Shared/brandon/functions/meta-portfolio.php:208
+#: /Users/Shared/brandon/functions/meta-portfolio.php:215
+#: /Users/Shared/brandon/functions/meta-post.php:83 /Users/Shared/brandon/functions/meta-post.php:90
+#: /Users/Shared/brandon/functions/meta-post.php:97
+msgid "These settings overriddes theme options settings."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-page.php:95
+#: /Users/Shared/brandon/functions/meta-portfolio.php:207
+#: /Users/Shared/brandon/functions/meta-post.php:89
+msgid "SEO Description"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-page.php:102
+#: /Users/Shared/brandon/functions/meta-portfolio.php:214
+#: /Users/Shared/brandon/functions/meta-post.php:96
+msgid "SEO Keywords"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:19
+msgid "Portfolio item"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:21
+msgid "Add New Portfolio item"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:22
+msgid "Edit Portfolio item"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:23
+msgid "New Portfolio item"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:24
+msgid "View Portfolio item"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:25
+msgid "Search Portfolio items"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:26
+msgid "No portfolio items found"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:27
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:48
+msgid "Portfolio categories"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:49
+msgid "Portfolio category"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:66
+#: /Users/Shared/brandon/functions/meta-testimonial.php:66
+msgid "Categories"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:104
+msgid "Portfolio Item Options"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:124
+msgid "Select layout for this portfolio item."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:136
+msgid "Select sidebar for this portfolio item."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:145
+#: /Users/Shared/brandon/functions/meta-portfolio.php:154
+msgid "Please also set featured image"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:164
+msgid ""
+"Select slider from the list of available <a href=\"admin.php?page=revslider\">Revolution Sliders</"
+"a>."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:172
+msgid "Project description: Client"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:178
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1408
+msgid "Task"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:179
+msgid "Project description: Task"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:185
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1416
+msgid "Website"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:186
+msgid "Project description: Website"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-portfolio.php:192
+msgid "Show categories"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-post.php:17
+msgid "Post Options"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-post.php:37
+msgid "Select layout for this post"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-post.php:49
+msgid "Select sidebar for this post"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-post.php:75
+msgid ""
+"Select slider from the list of available <a href=\"admin.php?page=revslider\">Revolution Sliders</"
+"a>.<br/>Please also set a <strong>Featured Image</strong> that will be used in Latest Posts Slider."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-slide.php:18
+msgid "Muffin Slider"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-slide.php:19
+msgid "Slide"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-slide.php:21
+msgid "Add New Slide"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-slide.php:22
+msgid "Edit Slide"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-slide.php:23
+msgid "New Slide"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-slide.php:24
+msgid "View Slide"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-slide.php:25
+msgid "Search Slides"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-slide.php:26
+msgid "No slides found"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-slide.php:27
+msgid "No slides found in Trash"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-slide.php:94
+msgid "Slide Options"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-slide.php:104
+msgid "Slide Title."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-slide.php:111
+msgid "Slide content text."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-slide.php:132
+msgid "Dark Background"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-slide.php:134
+msgid "Turn it ON if you uploaded dark background and you want light text color."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-testimonial.php:19
+msgid "Testimonial"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-testimonial.php:21
+msgid "Add New Testimonial"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-testimonial.php:22
+msgid "Edit Testimonial"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-testimonial.php:23
+msgid "New Testimonial"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-testimonial.php:24
+msgid "View Testimonials"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-testimonial.php:25
+msgid "Search Testimonials"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-testimonial.php:26
+msgid "No testimonials found"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-testimonial.php:27
+msgid "No testimonials found in Trash"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-testimonial.php:48
+msgid "Testimonial categories"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-testimonial.php:49
+msgid "Testimonial category"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-testimonial.php:104
+msgid "Testimonial Options"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/meta-testimonial.php:132
+msgid "Open link in a new window"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:144
+msgid "Next page &rsaquo;"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:145
+msgid "&lsaquo; Prev page"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:214
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:269 /Users/Shared/brandon/header-shop.php:60
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1284
+msgid "Home"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:270
+msgid "You are here:"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:278
+msgid "Archive by category"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:469
+#: /Users/Shared/brandon/functions/widget-recent-posts.php:112
+msgid "Category:"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:470
+msgid "Client:"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:471
+msgid "Date:"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:472
+msgid "Task:"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:473
+msgid "Visit online &rarr;"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:474
+msgid "Website:"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:548
+msgid "comment"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:549
+msgid "comments"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:550
+msgid "comments off"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:658
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-functions.php:671
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:121
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:125
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:138
+msgid "sub item"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:170
+msgid "Edit Menu Item"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:179
+msgid "URL"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:186
+msgid "Navigation Label"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:192
+msgid "Title Attribute"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:199
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:204
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:210
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:216
+msgid "Description"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:218
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:229
+msgid "Activate Mega Menu"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:230
+msgid "This option can be used only for 1st level of Main Menu."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:236
+msgid "Move"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:237
+msgid "Up one"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:238
+msgid "Down one"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:241
+msgid "To the top"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:248
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:261
+msgid "Remove"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-mega-menu.php:262
+msgid "Cancel"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-menu.php:14
+msgid "Main Menu"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-menu.php:15
+msgid "Languages Menu"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/theme-menu.php:16
+msgid "Footer Menu"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-company.php:17
+msgid "Use this widget on pages to display Company Box."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-company.php:18
+msgid "Muffin Company Box"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-company.php:74
+#: /Users/Shared/brandon/functions/widget-flickr.php:71
+#: /Users/Shared/brandon/functions/widget-menu.php:103
+#: /Users/Shared/brandon/functions/widget-recent-comments.php:84
+#: /Users/Shared/brandon/functions/widget-recent-posts.php:107
+#: /Users/Shared/brandon/functions/widget-tag-cloud.php:89
+msgid "Title:"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-company.php:79
+msgid "Image URL:"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-flickr.php:17
+msgid "Use this widget on pages to display photos from Flickr photostream."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-flickr.php:18
+msgid "Muffin Flickr"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-flickr.php:76
+msgid "Flickr User ID:"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-flickr.php:78
+msgid ""
+"Use <a href=\"http://idgettr.com/\" target=\"_blank\">this</a> tool to find your Flickr user ID"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-flickr.php:82
+msgid "Number of photos:"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-flickr.php:89
+msgid "Latest uploads"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-flickr.php:92
+msgid "Random photos"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-functions.php:65
+msgid "Footer area"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-functions.php:76
+msgid "WooCommerce sidebar"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-menu.php:17
+msgid "Use this widget on pages to display aside menu with children or siblings of the current page"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-menu.php:18
+msgid "Muffin Menu"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-menu.php:109
+msgid "Use current page title"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-menu.php:114
+msgid "Show page siblings"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-menu.php:117
+msgid "Show page children"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-menu.php:120
+msgid "Show page children (if there is no children, show siblings)"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-recent-comments.php:17
+msgid "The most recent comments."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-recent-comments.php:18
+msgid "Muffin Recent Comments"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-recent-comments.php:89
+msgid "Number of comments:"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-recent-posts.php:17
+msgid "The most recent posts on your site."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-recent-posts.php:18
+msgid "Muffin Recent Posts"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-recent-posts.php:125
+msgid "Number of posts:"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-tag-cloud.php:17
+msgid "Your most used tags in cloud format ."
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-tag-cloud.php:18
+msgid "Muffin Tag Cloud"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-tag-cloud.php:94
+msgid "Number of tags:"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-tag-cloud.php:100
+msgid "Taxonomy:"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-tag-cloud.php:109
+msgid "Order by:"
+msgstr ""
+
+#: /Users/Shared/brandon/functions/widget-tag-cloud.php:117
+msgid "Order:"
+msgstr ""
+
+#: /Users/Shared/brandon/header.php:118 /Users/Shared/brandon/muffin-options/theme-options.php:1275
+msgid "results found for:"
+msgstr ""
+
+#: /Users/Shared/brandon/header.php:148 /Users/Shared/brandon/muffin-options/theme-options.php:1434
+msgid "Error 404"
+msgstr ""
+
+#: /Users/Shared/brandon/includes/content-single-portfolio.php:10
+msgid "Project details:"
+msgstr ""
+
+#: /Users/Shared/brandon/includes/content-single.php:20
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1328
+msgid "Previous post"
+msgstr ""
+
+#: /Users/Shared/brandon/includes/content-single.php:21
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1336
+msgid "Next post"
+msgstr ""
+
+#: /Users/Shared/brandon/includes/content-single.php:22
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1344
+msgid "Related Posts"
+msgstr ""
+
+#: /Users/Shared/brandon/includes/header-top-area.php:44 /Users/Shared/brandon/searchform.php:10
+msgid "Enter your search"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/fields/font_select/field_font_select.php:25
+msgid "Default Webfont"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/fields/font_select/field_font_select.php:31
+msgid "System"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/fields/font_select/field_font_select.php:37
+msgid "Popular Google Fonts"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/fields/font_select/field_font_select.php:43
+msgid "Google Fonts"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/fields/pages_select/field_pages_select.php:23
+msgid "-- select --"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/fields/upload/field_upload.php:26
+msgid "Browse"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/fields/upload/field_upload.php:27
+msgid "Remove Upload"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:42
+#: /Users/Shared/brandon/muffin-options/options.php:44
+msgid "Brandon Theme Options"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:449
+#: /Users/Shared/brandon/muffin-options/options.php:452
+#: /Users/Shared/brandon/muffin-options/options.php:489
+msgid "Import & Export"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:465
+msgid "More Options"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:472
+#: /Users/Shared/brandon/muffin-options/options.php:482
+#: /Users/Shared/brandon/muffin-options/options.php:545
+msgid "Save Changes"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:481
+#: /Users/Shared/brandon/muffin-options/options.php:544
+msgid "Reset to Defaults"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:495
+msgid "Import Options"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:498
+msgid "Import from file"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:499
+msgid "Import from URL"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:503
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:508
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:513
+msgid "Import"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:514
+msgid "WARNING! This will overwrite any existing options, please proceed with caution!"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:521
+msgid "Export Options"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:522
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this safe as you can use it as "
+"a backup should anything go wrong. Or you can use it to restore your settings on this site (or any "
+"other site). You also have the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:525
+msgid "Copy"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:526
+msgid "Download"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/options.php:527
+msgid "Copy Link"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:24
+msgid "Getting started"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:36
+msgid "Colors"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:42
+msgid "Fonts"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:48
+msgid "Translate"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:60
+#: /Users/Shared/brandon/muffin-options/theme-options.php:313
+#: /Users/Shared/brandon/muffin-options/theme-options.php:551
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1251
+msgid "General"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:67
+msgid "Responsive"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:68
+msgid ""
+"<b>Notice:</b> Responsive menu is working only with WordPress custom menu, please add one in "
+"Appearance > Menus and select it for Theme Locations section. <a href=\"http://en.support.wordpress."
+"com/menus/\" target=\"_blank\">http://en.support.wordpress.com/menus/</a>"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:76
+msgid "Use built-in SEO fields"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:77
+msgid "Turn it OFF if you want to use external SEO plugin."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:85
+msgid "Meta Description"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:86
+#: /Users/Shared/brandon/muffin-options/theme-options.php:94
+msgid "These setting may be overridden for single posts & pages."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:93
+msgid "Meta Keywords"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:100
+msgid "Google Analytics"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:101
+msgid "Paste your Google Analytics code here."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:109
+#: /Users/Shared/brandon/muffin-options/theme-options.php:116
+msgid "Sidebars"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:117
+msgid "Manage custom sidebars"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:118
+msgid "Sidebars can be used on pages, blog and portfolio"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:124
+msgid "Single Post Layout"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:125
+msgid "Use this option to force layout for all posts"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:126
+msgid ""
+"This option can <strong>not</strong> be overriden and it is usefull for people who already have "
+"many posts and want to standardize their appearance."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:138
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:139
+msgid "Use this option to force sidebar for all posts"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:140
+msgid "Paste the name of one of the sidebars that you added in the \"Sidebars\" section."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:149
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1295
+msgid "Blog"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:156
+#: /Users/Shared/brandon/muffin-options/theme-options.php:241
+msgid "Posts per page"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:157
+msgid "Number of posts per page"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:166
+msgid "Layout for Blog Page"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:180
+msgid "Read more"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:181
+msgid "Read more link text"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:182
+msgid "Leave blank if you don`t want the link on blog page."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:189
+msgid "Show Post Meta"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:190
+msgid "Show Categories, Comments Number, Date, etc."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:198
+msgid "Show Author Box"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:206
+msgid "Show Related Posts"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:214
+msgid "All pages in pagination"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:215
+msgid "Show all of the pages instead of a short list of the pages near the current page."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:223
+msgid "Blog Page"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:224
+msgid "Assign page for blog"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:225
+msgid ""
+"Use this option if you set <strong>Front page displays: Your latest posts</strong> in Settings > "
+"Reading"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:242
+msgid "Number of portfolio posts per page."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:251
+msgid "Layout for portfolio items list."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:264
+msgid "Portfolio Page"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:265
+msgid "Assign page for portfolio."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:272
+msgid "Single item slug"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:273
+msgid "Link to single item."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:274
+msgid ""
+"<b>Important:</b> Do not use characters not allowed in links. <br /><br />Must be different from "
+"the Portfolio site title chosen above, eg. \"portfolio-item\". After change please go to \"Settings "
+"> Permalinks\" and click \"Save changes\" button."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:300
+msgid "jQuery filtering"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:301
+msgid ""
+"When this option is enabled, portfolio looks great with all projects on single site, so please set "
+"\"Posts per page\" option to bigger number"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:319
+msgid "Use 960px grid"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:320
+msgid "Turn it ON if you prefer narrow 960px grid."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:329
+msgid "Layout type"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:341
+msgid "This option can be used <strong>only</strong> with Layout: Boxed."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:365
+msgid "Custom Favicon"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:366
+msgid "Site favicon"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:367
+msgid "Please use ICO format only."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:373
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:374
+msgid "Leave this field blank to show a default copyright."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:382
+#: /Users/Shared/brandon/muffin-options/theme-options.php:657
+msgid "Header"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:388
+msgid "Sticky Header"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:396
+msgid "Clean Menu Style"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:397
+msgid "Please remember to change the Menu Link color if you are using Custom Theme Skin."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:405
+msgid "Custom Logo"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:406
+msgid "Custom logo image"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:412
+msgid "Retina Logo"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:413
+msgid "2x larger logo image"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:414
+msgid "Retina Logo should be 2x larger than Custom Logo (field is optional)."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:420
+msgid "Header Contact Text"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:427
+msgid "Header Phone number"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:434
+msgid "Header E-mail"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:441
+msgid "Muffin Slider - Timeout"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:442
+msgid "Milliseconds between slide transitions"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:443
+msgid "<strong>0 to disable auto</strong> advance."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:453
+msgid "Social Icons"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:461
+msgid "Type your Facebook link here"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:462
+#: /Users/Shared/brandon/muffin-options/theme-options.php:470
+#: /Users/Shared/brandon/muffin-options/theme-options.php:478
+#: /Users/Shared/brandon/muffin-options/theme-options.php:486
+#: /Users/Shared/brandon/muffin-options/theme-options.php:494
+#: /Users/Shared/brandon/muffin-options/theme-options.php:502
+#: /Users/Shared/brandon/muffin-options/theme-options.php:510
+#: /Users/Shared/brandon/muffin-options/theme-options.php:518
+#: /Users/Shared/brandon/muffin-options/theme-options.php:526
+msgid "Icon won`t show if you leave this field blank"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:468
+msgid "Google +"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:469
+msgid "Type your Google + link here"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:477
+msgid "Type your Twitter link here"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:485
+msgid "Type your Vimeo link here"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:493
+msgid "Type your YouTube link here"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:500
+msgid "Flickr"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:501
+msgid "Type your Flickr link here"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:509
+msgid "Type your LinkedIn link here"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:516
+msgid "Pinterest"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:517
+msgid "Type your Pinterest link here"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:524
+msgid "Dribbble"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:525
+msgid "Type your Dribbble link here"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:534
+#: /Users/Shared/brandon/muffin-options/theme-options.php:540
+msgid "Custom CSS"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:541
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:558
+msgid "Theme Skin"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:559
+msgid "Choose one of the predefined styles or set your own colors."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:560
+msgid "<b>Important:</b> Color options can be used only with the Custom Skin."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:575
+msgid "Body background"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:584
+msgid "Menus"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:591
+msgid "Menu background"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:598
+msgid "Menu Link color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:605
+msgid "Menu Hover Link background"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:612
+msgid "Menu Hover Link color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:619
+msgid "Submenu background"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:626
+msgid "Submenu Link color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:633
+msgid "Submenu Hover Link color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:640
+msgid "Widget Muffin Menu Link color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:641
+msgid "To change icon please edit <strong>css/skins/.../images/links.png</strong> file."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:648
+msgid "Widget Muffin Menu Hover Link color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:664
+msgid "Addons text color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:665
+msgid "To change icons please edit <strong>images/icons/addons/...</strong> files."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:672
+msgid "Social Icon background"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:679
+msgid "Social Icon color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:686
+msgid "Social Icon Hover color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:693
+msgid "Subheader background"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:694
+msgid "To change overlay please edit <strong>images/bg_subheader.png</strong> file."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:701
+msgid "Page Title color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:708
+msgid "Breadcrumbs color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:715
+msgid "Vertical Slider Pager"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:722
+msgid "Vertical Slider Active Pager"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:738
+#: /Users/Shared/brandon/muffin-options/theme-options.php:843
+msgid "Text color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:739
+msgid "Content text color."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:746
+#: /Users/Shared/brandon/muffin-options/theme-options.php:850
+msgid "Link color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:753
+#: /Users/Shared/brandon/muffin-options/theme-options.php:857
+msgid "Link Hover color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:760
+#: /Users/Shared/brandon/muffin-options/theme-options.php:885
+msgid "Note color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:761
+msgid "eg. Latest Post date, Blockquote author."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:768
+msgid "Bold Note color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:769
+msgid "eg. Widget Title, Contect Box icon, Our Team subtitle."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:776
+msgid "Dropcap & Highlight background"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:783
+msgid "Dropcap & Highlight text color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:790
+msgid "Button background"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:791
+msgid "To change arrow please edit <strong>images/arrow_right.png</strong> file."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:798
+msgid "Button text color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:805
+msgid "Submit Button background"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:812
+msgid "Submit Button color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:819
+#: /Users/Shared/brandon/muffin-options/theme-options.php:892
+msgid "Photo border"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:828
+msgid "Footer"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:835
+msgid "Border Top"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:836
+msgid "Shaded Line above the footer"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:864
+msgid "Heading color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:871
+msgid "Widget Title color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:878
+msgid "Icon color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:901
+msgid "Accordion & Tabs"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:908
+msgid "Accordion Title color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:909
+msgid "To change icon please edit <strong>css/skins/.../images/accordion_controls.png</strong> file."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:916
+msgid "Accordion Active Title color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:917
+msgid "This is also Active Border color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:924
+msgid "Accordion Active Content color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:931
+msgid "Tab Title color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:938
+msgid "Tab Active Title color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:945
+msgid "Tab Active Title border"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:954
+msgid "Headings"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:961
+msgid "Heading H1 color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:968
+msgid "Heading H2 color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:975
+msgid "Heading H3 color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:982
+msgid "Heading H4 color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:989
+msgid "Heading H5 color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:996
+msgid "Heading H6 color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1005
+msgid "Shortcodes"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1012
+msgid "Call To Action overlay"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1019
+msgid "Call To Action border"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1026
+msgid "Call To Action Title color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1033
+msgid "Call To Action Highlight color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1040
+msgid "Fancy Heading border"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1047
+msgid "Fancy Heading Icon color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1054
+msgid "Info Box background"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1061
+msgid "Latest Post Title color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1068
+msgid "Offer Pager background"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1069
+msgid "To change active image please edit <strong>css/skins/.../images/offer_active.png<strong> file."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1076
+msgid "Pricing Table Price"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1083
+msgid "Pricing Table border"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1090
+msgid "Pricing Table Featured border"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1097
+msgid "Pricing Table Featured background"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1104
+msgid "Progress Bar color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1111
+msgid "Quick Fact Number color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1118
+msgid "Quick Fact Title color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1125
+msgid "Testimonials border"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1126
+msgid "Testimonials & Blockquote"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1127
+msgid "To change icon please edit <strong>css/skins/.../images/blockquote.png<strong> file."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1134
+msgid "Testimonials Active Pager color"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1143
+msgid "Font Family"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1149
+msgid "Content Font"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1150
+msgid "This font will be used for all theme texts except headings and menu."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1157
+msgid "Main Menu Font"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1158
+msgid "This font will be used for header menu."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1165
+msgid "Headings Font"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1166
+msgid "This font will be used for all headings."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1173
+msgid "Google Font Subset"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1174
+msgid "Specify which subsets should be downloaded. Multiple subsets should be separated with coma (,)"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1175
+msgid ""
+"Some of the fonts in the Google Font Directory support multiple scripts (like Latin and Cyrillic "
+"for example). In order to specify which subsets should be downloaded the subset parameter should be "
+"appended to the URL. For a complete list of available fonts and font subsets please see <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts</a>."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1184
+msgid "Font Size"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1191
+msgid "This font size will be used for all theme texts."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1198
+msgid "Main menu"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1199
+msgid "This font size will be used for top level only."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1206
+msgid "Heading H1"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1207
+msgid "Subpages header title."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1214
+msgid "Heading H2"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1221
+msgid "Heading H3"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1228
+msgid "Heading H4"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1235
+msgid "Heading H5"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1242
+msgid "Heading H6"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1257
+msgid "Enable Translate"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1258
+msgid "Turn it off if you want to use .mo .po files for more complex translation."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1266
+msgid "Search Placeholder"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1267
+msgid "Widget Search"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1276
+msgid "Search Results"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1285
+msgid "Breadcrumbs"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1301
+msgid "Comment"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1302
+msgid "Text to display when there is one comment"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1310
+msgid "Comments"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1311
+msgid "Text to display when there are more than one comments"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1319
+msgid "Comments off"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1320
+msgid "Text to display when comments are disabled"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1360
+msgid "Select category"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1376
+msgid "Project details"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1400
+msgid "Date"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1424
+msgid "Visit online"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1457
+msgid "Please check entered address and try again or"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1464
+msgid "Button"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/theme-options.php:1465
+msgid "Go To Homepage button"
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: /Users/Shared/brandon/muffin-options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: /Users/Shared/brandon/taxonomy-portfolio-types.php:14
+#: /Users/Shared/brandon/template-portfolio.php:20
+msgid "Select category:"
+msgstr ""
+
+#: /Users/Shared/brandon/template-archives.php:29
+msgid "Available Pages"
+msgstr ""
+
+#: /Users/Shared/brandon/template-archives.php:36
+msgid "The 20 latest posts"
+msgstr ""
+
+#: /Users/Shared/brandon/template-archives.php:52
+msgid "Archives by Subject"
+msgstr ""
+
+#: /Users/Shared/brandon/template-archives.php:68
+msgid "Archives by Month"
+msgstr ""
